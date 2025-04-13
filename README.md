@@ -75,3 +75,4 @@ Build a GUI interface with Tkinter or PyQt
 Deploy as a web app using Flask or Streamlit
 
 
+ConversAI showcases the power of combining speech recognition, NLP, and real-time interaction to create intelligent, voice-driven applications. Whether as a foundation for more complex assistants or a proof-of-concept for natural language systems, this project demonstrates how accessible and scalable conversational AI can be with the right tools. Contributions and improvements are always welcome!

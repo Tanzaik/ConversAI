@@ -1,2 +1,2 @@
 # ConversAI
-speech of AI to Human
+voice-activated AI chatbot
